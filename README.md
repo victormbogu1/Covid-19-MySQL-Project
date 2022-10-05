@@ -3,7 +3,7 @@
 
 Few years ago the world has been hit with pandemic disease and is of my interest to analyse with SQL to see how the result has been so far since the outbreak. we look at the Covid_19 Deaths and Covid_19 Vancination data which starts from Febuary 2022 to July 2022. 
 
-##Task
+## Task
 Source for the data online and clean them using MicrosoftSQL server.
 ## Data
 Data was gotten from ourworldindata.org. see the link below
